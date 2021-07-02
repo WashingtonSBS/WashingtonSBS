@@ -19,6 +19,10 @@
 &nbsp;
 
 ## About me
+<div>
+  <p>Software Developer, technology lover, movies, series, and, Star Wars.</p>
+</div>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:washingtonsbs@gmail.com)](mailto:washingtonsbs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WashingtonSBS/)](https://www.linkedin.com/in/WashingtonSBS/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/WashingtonSBS)](https://github.com/WashingtonSBS)
@@ -60,7 +64,7 @@
 &nbsp;
 
 ## ⚡ GitHub Stats
-<div>
+<div align="center">
   <a href="https://github.com/WashingtonSBS"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WashingtonSBS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&link=https://github.com/WashingtonSBS"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonsbs&layout=compact&langs_count=16&theme=radical&link=https://github.com/WashingtonSBS"/>
