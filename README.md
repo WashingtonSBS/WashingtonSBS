@@ -1,5 +1,3 @@
-![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WashingtonSBS&repo=WashingtonSBS-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
 ### Hi there 👋🏽, I'm Washington Santos
 
 &nbsp;
