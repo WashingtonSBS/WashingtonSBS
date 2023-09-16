@@ -92,11 +92,15 @@
 <br>
 <br>
 
+
 <h2>Contribution Graph</h2>
 <div align="center">
-  <img alt="Contribution Graph" src="https://github.com/WashingtonSBS/WashingtonSBS/blob/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WashingtonSBS/WashingtonSBS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WashingtonSBS/WashingtonSBS/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/WashingtonSBS/WashingtonSBS/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
 <br>
 <br>
 
