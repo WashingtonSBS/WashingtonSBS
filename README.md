@@ -82,10 +82,10 @@
 <h2>GitHub Analytics</h2>
 <div style="display:inline-block;" align="center">
   <a href="https://github.com/WashingtonSBS" style="text-decoration:none;">
-    <img height="145em" style="max-width:50%;" src="https://github-readme-stats.vercel.app/api?username=WashingtonSBS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WashingtonSBS&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="WashingtonSBS's GitHub Stats"/>
   </a>
   <a href="https://github.com/WashingtonSBS" style="text-decoration:none;">
-    <img height="145em" style="max-width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonSBS&layout=compact&langs_count=16&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WashingtonSBS&layout=compact&langs_count=16&theme=radical" alt="WashingtonSBS's Top Languages"/>
   </a>
 </div>
 
