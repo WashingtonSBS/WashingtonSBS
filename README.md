@@ -82,16 +82,15 @@
 <h2>GitHub Analytics</h2>
 <div style="display:inline-block;" align="center">
   <a href="https://github.com/WashingtonSBS" style="text-decoration:none;">
-    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WashingtonSBS&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=radical" alt="WashingtonSBS's GitHub Stats"/>
+    <img src="https://github-readme-washingtonsbs.vercel.app/api?theme=catppuccin_mocha&hide_border=true&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&disable_animations=false&include_all_commits=true&count_private=true&username=washingtonsbs&locale=en" height="150" alt="Stats Graph"/>
   </a>
   <a href="https://github.com/WashingtonSBS" style="text-decoration:none;">
-    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WashingtonSBS&layout=compact&langs_count=10&theme=radical" alt="WashingtonSBS's Top Languages"/>
+    <img src="https://github-readme-washingtonsbs.vercel.app/api/wakatime?theme=catppuccin_mocha&hide_border=true&hide_title=true&layout=compact&langs_count=10&range=all_time&username=washingtonsbs" height="150" alt="WakaTime Graph"/>
   </a>
 </div>
 
 <br>
 <br>
-
 
 <h2>Contribution Graph</h2>
 <div align="center">
@@ -101,6 +100,7 @@
     <img alt="Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/WashingtonSBS/WashingtonSBS/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 <br>
 <br>
 
@@ -111,3 +111,7 @@
 
 <br>
 <br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=washingtonsbs.washingtonsbs&left_text=My%20Page%20Visitors&format=true"/>
+</div>
