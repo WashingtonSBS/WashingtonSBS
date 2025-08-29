@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>📌 Senior Software Engineer</p>
-  <p>&nbsp;&nbsp;&nbsp;.NET | C# | Angular | AWS | Docker | CI/CD</p>
+  <p>&nbsp;&nbsp;&nbsp;.NET | C# | SQL Server | Angular | AWS | Docker | CI/CD</p>
 </div>
 
 <br>
